@@ -4,7 +4,7 @@ A fully comprehensive mobile app for Sheridan students. Students have full acces
 </hr>
 
 <H3> Application Version </H3>
-<a href="https://www.figma.com/file/Km1HtqkmRhlWVdjDxXdkLu/Sheridan-Course-v2?node-id=0%3A1&t=Te0KCOwcnz1UqQkH-1">Version 1 - Initial Prototype</a><br>
+<a href="https://www.figma.com/file/nT2dDBOVXy0g1gqHSb4Yfy/SheridanCourses?t=Te0KCOwcnz1UqQkH-1">Version 1 - Initial Prototype</a><br>
 <a href="https://www.figma.com/file/Km1HtqkmRhlWVdjDxXdkLu/Sheridan-Course-v2?node-id=0%3A1&t=Te0KCOwcnz1UqQkH-1">Version 2 - Revised Prototype</a>
 
 <br><br>
