@@ -22,11 +22,14 @@ A fully comprehensive mobile app for Sheridan students. Students have full acces
   </tr>
 
 
-  <h4>Future Functionalities</h4>
+  <h3>Future Functionalities</h3>
+ 
   <ul>
   <li>Interactive Map View</li>
   <li>Joni virtual class In app</li>
   <li>Pay Fees In-App</li>
 </ul>  
-
+</hr><br>
+  <h3> Demo </h3>
+<a href="https://1drv.ms/u/s!AhLeRaHGtySEkWOkuK7dtBtbz4Cu?e=uXpK33">Prototype 2 - Demo<br>
  </table>
