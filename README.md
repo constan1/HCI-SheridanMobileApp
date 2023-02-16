@@ -4,9 +4,11 @@ A fully comprehensive mobile app for Sheridan students. Students have full acces
 
 <table>
   <tr>
-   ![image](https://user-images.githubusercontent.com/60414383/219460178-92a93d87-3f17-42b0-867c-b7e8a43537e3.png)
+    <td valign="top"><img src="https://user-images.githubusercontent.com/60414383/219460321-39164a6f-de2a-4bba-a714-bbef78031cd1.png" width="200" /></td>
+
   </tr>
-  
+
+
   <tr>
     
   </tr>
