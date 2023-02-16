@@ -1,7 +1,10 @@
 # HCI-SheridanMobileApp
 A fully comprehensive mobile app for Sheridan students. Students have full access to all courses and modules. Students can chat with others in each course and provided a mapview for directions.
 
+</hr>
 
+<H1> Application Version </H1>
+<a href="https://www.figma.com/file/Km1HtqkmRhlWVdjDxXdkLu/Sheridan-Course-v2?node-id=0%3A1&t=Te0KCOwcnz1UqQkH-1">Version 2</a>
 <table>
   <tr>
     <td valign="top"><img src="https://user-images.githubusercontent.com/60414383/219460321-39164a6f-de2a-4bba-a714-bbef78031cd1.png" width="200" /></td>
