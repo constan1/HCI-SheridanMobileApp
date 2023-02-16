@@ -3,9 +3,11 @@ A fully comprehensive mobile app for Sheridan students. Students have full acces
 
 </hr>
 
-<H2> Application Version </H2>
-<a href="https://www.figma.com/file/Km1HtqkmRhlWVdjDxXdkLu/Sheridan-Course-v2?node-id=0%3A1&t=Te0KCOwcnz1UqQkH-1">Version 2</a>
+<H3> Application Version </H3>
+<a href="https://www.figma.com/file/Km1HtqkmRhlWVdjDxXdkLu/Sheridan-Course-v2?node-id=0%3A1&t=Te0KCOwcnz1UqQkH-1">Version 1 - Initial Prototype</a>
+<a href="https://www.figma.com/file/Km1HtqkmRhlWVdjDxXdkLu/Sheridan-Course-v2?node-id=0%3A1&t=Te0KCOwcnz1UqQkH-1">Version 2 - Revised Prototype</a>
 
+<br><br>
 </hr>
 <table>
   <tr>
@@ -17,7 +19,6 @@ A fully comprehensive mobile app for Sheridan students. Students have full acces
      <td valign="top"><img src="https://user-images.githubusercontent.com/60414383/219460946-51e85929-b6bb-489b-a7d3-d25f8328590c.png" width="200" /></td>
      <td valign="top"><img src="https://user-images.githubusercontent.com/60414383/219461608-1535805c-9cab-4c09-a504-e23b5bf6bdbd.png" width="200" /></td>
      <td valign="top"><img src="https://user-images.githubusercontent.com/60414383/219461893-f509f72f-fd4c-4646-853b-bd66ca2e167f.png" width="200" /></td>
-    
   </tr>
 
 
