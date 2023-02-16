@@ -31,5 +31,5 @@ A fully comprehensive mobile app for Sheridan students. Students have full acces
 </ul>  
 </hr><br>
   <h3> Demo </h3>
-<a href="https://1drv.ms/u/s!AhLeRaHGtySEkWOkuK7dtBtbz4Cu?e=uXpK33">Prototype 2 - Demo<br>
+<a href="https://1drv.ms/u/s!AhLeRaHGtySEkWOkuK7dtBtbz4Cu?e=uXpK33">Prototype 2 - Demo<br> <hr> <br>
  </table>
